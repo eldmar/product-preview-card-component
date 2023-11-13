@@ -55,6 +55,7 @@ body {
   font-weight: 500;
 }
 .main__title-big {
+  color: #1C232B;
   max-width: 236px;
   font-family: "Fraunces", serif;
   font-size: 32px;
